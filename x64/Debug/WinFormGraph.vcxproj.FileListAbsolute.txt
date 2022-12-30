@@ -1,0 +1,4 @@
+D:\repository\WinFormGraph\WinFormGraph\x64\Debug\WinFormGraph.vcxproj.AssemblyReference.cache
+D:\repository\WinFormGraph\WinFormGraph\x64\Debug\WinFormGraph.vcxproj.SuggestedBindingRedirects.cache
+D:\repository\WinFormGraph\WinFormGraph\x64\Debug\WinFormGraph.MyForm.resources
+D:\repository\WinFormGraph\WinFormGraph\x64\Debug\WinFormGraph.vcxproj.GenerateResource.cache
